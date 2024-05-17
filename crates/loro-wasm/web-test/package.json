@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "esbuild": "^0.16.4",
+    "esbuild": "^0.20.2",
     "loro-wasm": "../",
     "preact": "^10.11.2"
   },
